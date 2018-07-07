@@ -89,7 +89,7 @@
 <html>
     <head>
         <meta charset="utf-8" />
-        <link rel="stylesheet" href="style_Register.css">
+        <link rel="stylesheet" href="css/style_Register.css">
         <title>Inscription</title>
     </head>
 <body>
@@ -107,7 +107,7 @@
 
     <section class="container-fluid banner">
         <div class="ban">
-            <img src="egypte.jpg" alt="bannière du site">
+            <img src="photos/egypte.jpg" alt="bannière du site">
                 </div>
               <div class="text-banner">
             <h1>L'Egypte</h1>

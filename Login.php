@@ -41,7 +41,7 @@ session_start();
 <html>
     <head>
         <meta charset="utf-8" />
-        <link rel="stylesheet" href="style_Login.css">
+        <link rel="stylesheet" href="css/style_Login.css">
         <title>Connexion</title>
     </head>
 <body>
@@ -59,7 +59,7 @@ session_start();
 
     <section class="container-fluid banner">
         <div class="ban">
-            <img src="egypte.jpg" alt="bannière du site">
+            <img src="photos/egypte.jpg" alt="bannière du site">
                 </div>
               <div class="text-banner">
             <h1>L'Egypte</h1>

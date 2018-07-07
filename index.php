@@ -9,7 +9,7 @@ session_start();
 <html>
     <head>
         <meta charset="utf-8" />
-        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="css/style.css">
         <title>Acceuil</title>
     </head>
 
@@ -62,7 +62,7 @@ session_start();
     <main class="site-content">
         <section class="container-fluid banner">
         <div class="ban">
-            <img src="egypte.jpg" alt="bannière du site">
+            <img src="photos/egypte.jpg" alt="bannière du site">
                 </div>
               <div class="text-banner">
             <h1>L'Egypte</h1>

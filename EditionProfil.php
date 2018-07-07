@@ -121,7 +121,7 @@
 <html>
     <head>
         <meta charset="utf-8" />
-        <link rel="stylesheet" href="Style_EditProfil.css">
+        <link rel="stylesheet" href="css/Style_EditProfil.css">
         <title>Profil</title>
     </head>
 <body>
@@ -162,7 +162,7 @@
 
     <section class="container-fluid banner">
         <div class="ban">
-            <img src="egypte.jpg" alt="bannière du site">
+            <img src="photos/egypte.jpg" alt="bannière du site">
                 </div>
               <div class="text-banner">
             <h1>L'Egypte</h1>
