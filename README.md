@@ -2,4 +2,4 @@
 site egypte
 
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Projet Site Web Ecliptique~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Projet Site Web Ecliptique
